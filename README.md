@@ -7,13 +7,6 @@ NoteApp, kullanıcıların notlarını oluşturabileceği, düzenleyebileceği v
 - Kategorilere göre notları organize etme
 - Basit ve kullanıcı dostu arayüz
 
-# EKran Görüntüleri
-
-
- <img width="369" alt="Ekran Resmi 2024-08-06 13 36 16" src="https://github.com/user-attachments/assets/041a120d-8bf0-453d-a78c-bedf41447fa1">
- <img width="372" alt="Ekran Resmi 2024-08-06 13 36 42" src="https://github.com/user-attachments/assets/abbe2d8f-9fc9-46c7-a593-24b3ddd3fb7e">
-
-
 # Teknolojiler
 - Swift
 - SwiftUI
